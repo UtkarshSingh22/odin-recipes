@@ -1,0 +1,14 @@
+#heading{
+    font-size: 100px;
+    font-family:cursive;
+    color: darkcyan;
+    background-color: rgb(252, 133, 48);
+    font-style: italic;
+    font-weight: bolder;
+    text-align:center;
+}
+
+#gif{
+    height: auto;
+    width: 1000px;
+}
